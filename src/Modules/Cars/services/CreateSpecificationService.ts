@@ -1,6 +1,6 @@
 class CreateSpecificationService {
     execute() {
-        console.log('TODO correto');
+        console.log('TODO');
     }
 }
 
