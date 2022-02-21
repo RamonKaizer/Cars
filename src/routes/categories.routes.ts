@@ -17,3 +17,5 @@ categoriesRoutes.get('/', (requuest, response) => {
 });
 
 export { categoriesRoutes };
+
+//*
